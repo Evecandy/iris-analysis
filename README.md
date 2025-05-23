@@ -29,9 +29,9 @@ This repository contains my **data analysis project** for the Codveda internship
 ---
 
 ## 📂 Repository Structure
+── 📈 visualizations/ (Exported plots & images)
 ── 📜 README.md (Project Overview & Instructions)
 ── 📊 iris_data_analysis.ipynb (Jupyter Notebook with Code)
-── 📈 visualizations/ (Exported plots & images)
 ── 📄 dataset.csv (Cleaned dataset used for analysis)
 
 
@@ -41,7 +41,7 @@ This repository contains my **data analysis project** for the Codveda internship
 Here are some key **data visualizations** generated during analysis:
 
 ### 🔹 Species Distribution
-![Bar Plot]bar_plot_species_distribution.png)
+![Bar Plot](visualizations/bar_plot_species_distribution.png)
 
 ### 🔹 Sepal vs Petal Length Relationship
 ![Scatter Plot](visualizations/scatter_plot_sepal_vs_petal.png)
