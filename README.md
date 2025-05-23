@@ -41,7 +41,7 @@ This repository contains my **data analysis project** for the Codveda internship
 Here are some key **data visualizations** generated during analysis:
 
 ### 🔹 Species Distribution
-![Bar Plot](visualizations/bar_plot_species_distribution.png)
+![Bar Plot]bar_plot_species_distribution.png)
 
 ### 🔹 Sepal vs Petal Length Relationship
 ![Scatter Plot](visualizations/scatter_plot_sepal_vs_petal.png)
