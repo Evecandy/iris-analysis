@@ -29,11 +29,10 @@ This repository contains my **data analysis project** for the Codveda internship
 ---
 
 ## 📂 Repository Structure
+── 📄 dataset.csv (Cleaned dataset used for analysis)
 ── 📈 visualizations/ (Exported plots & images)
 ── 📜 README.md (Project Overview & Instructions)
 ── 📊 iris_data_analysis.ipynb (Jupyter Notebook with Code)
-── 📄 dataset.csv (Cleaned dataset used for analysis)
-
 
 ---
 
@@ -50,6 +49,9 @@ Here are some key **data visualizations** generated during analysis:
 ![Heatmap](visualizations/heatmap_correlation.png)
 
 ---
+📄 `dataset.csv` - Original raw dataset  
+📄 `cleaned_dataset.csv` - Preprocessed dataset used for analysis  
+
 
 ## ✨ How to Run This Project
 1️⃣ Clone this repository:  
